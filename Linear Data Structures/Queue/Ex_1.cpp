@@ -70,8 +70,6 @@ int main(){
     enqueue(30);
     print_queue();
 
-
-
     return 0;
 }
 
